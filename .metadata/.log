@@ -271,3 +271,30 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.ui 2 2 2021-09-21 18:52:07.736
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-23 08:26:23.951
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-23 08:26:23.952
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-23 08:26:23.953
+!MESSAGE buffering callback sts4.classpath.rHZRtgSi bytebank-herdado-conta false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-23 08:26:23.953
+!MESSAGE executing callback sts4.classpath.rHZRtgSi 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-23 08:26:24.004
+!MESSAGE executing callback sts4.classpath.rHZRtgSi SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-23 08:28:53.643
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-23 08:28:53.644
+!MESSAGE buffering callback sts4.classpath.rHZRtgSi bytebank-herdado true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-23 08:28:53.645
+!MESSAGE executing callback sts4.classpath.rHZRtgSi 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-23 08:28:53.671
+!MESSAGE executing callback sts4.classpath.rHZRtgSi SUCCESS [done]
