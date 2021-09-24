@@ -7,7 +7,7 @@ public class TesteSistema {
 		g.setSenha(222);
 		
 		Administrador adm = new Administrador();
-		adm.setSenha(111);
+		adm.setSenha(333);
 		
 		
 		SistemaInterno si = new SistemaInterno();
