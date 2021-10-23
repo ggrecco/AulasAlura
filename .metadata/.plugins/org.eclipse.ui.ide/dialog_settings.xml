@@ -44,6 +44,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\ggrecco\Documents\Programação\AulasAlura\java-io"/>
 			<item value="C:\Users\gustavo.grecco\Documents\programacao\java\bytebank-herdado"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
